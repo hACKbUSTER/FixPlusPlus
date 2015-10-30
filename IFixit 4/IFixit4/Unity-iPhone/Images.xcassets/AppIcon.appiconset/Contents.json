@@ -1,0 +1,59 @@
+{
+	"images" : [
+		{
+			"filename" : "Icon.png",
+			"idiom" : "iphone",
+			"scale" : "1x",
+			"size" : "57x57"
+		},
+		{
+			"filename" : "Icon@2x.png",
+			"idiom" : "iphone",
+			"scale" : "2x",
+			"size" : "57x57"
+		},
+		{
+			"filename" : "Icon-120.png",
+			"idiom" : "iphone",
+			"scale" : "2x",
+			"size" : "60x60"
+		},
+		{
+			"filename" : "Icon-180.png",
+			"idiom" : "iphone",
+			"scale" : "3x",
+			"size" : "60x60"
+		},
+		{
+			"filename" : "Icon-72.png",
+			"idiom" : "ipad",
+			"scale" : "1x",
+			"size" : "72x72"
+		},
+		{
+			"filename" : "Icon-144.png",
+			"idiom" : "ipad",
+			"scale" : "2x",
+			"size" : "72x72"
+		},
+		{
+			"filename" : "Icon-76.png",
+			"idiom" : "ipad",
+			"scale" : "1x",
+			"size" : "76x76"
+		},
+		{
+			"filename" : "Icon-152.png",
+			"idiom" : "ipad",
+			"scale" : "2x",
+			"size" : "76x76"
+		}
+	],
+	"info" : {
+		"author" : "xcode",
+		"version" : 1
+	},
+	"properties" : {
+		"pre-rendered" : false
+	}
+}

@@ -1,0 +1,24 @@
+# OBJ written from /Users/Fincher/Downloads/KeyboardBottom.obj
+# Units	meters
+
+o KeyboardBottom
+v -7.80665 -6.7989 -4.65378
+v -7.7618 -6.7989 5.28487
+v -7.7618 -6.7989 -4.65661
+v 16.3758 -6.7989 5.28487
+v 16.3758 -6.7989 -4.65661
+v 16.4207 -6.7989 5.28203
+vn 0 1 0
+vt 42.9558 583.861
+vt 44 251.848
+vt 44 583.956
+vt 606 251.848
+vt 606 583.956
+vt 607.044 251.943
+mtllib KeyboardBottom.mtl
+usemtl MacAlu_1
+g Macbook_Pro_13___032Unibody_al
+f 1/1/1 2/2/1 3/3/1
+f 3/3/1 2/2/1 4/4/1
+f 3/3/1 4/4/1 5/5/1
+f 5/5/1 4/4/1 6/6/1

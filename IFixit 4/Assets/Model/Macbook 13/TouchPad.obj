@@ -1,0 +1,18 @@
+# OBJ written from /Users/Fincher/Downloads/TouchPad.obj
+# Units	meters
+
+o TouchPad
+v 0.140905 -6.65664 12.0948
+v 0.140905 -6.65664 5.79851
+v 8.47311 -6.65664 12.0948
+v 8.47311 -6.65664 5.79851
+vn 0 1 0
+vt 228 234.69
+vt 228 24.3546
+vt 422 24.3546
+vt 422 234.69
+mtllib TouchPad.mtl
+usemtl MacAlu_1
+g Macbook_Pro_13___032Unibody_al
+f 2/1/1 1/2/1 3/3/1
+f 2/1/1 3/3/1 4/4/1
